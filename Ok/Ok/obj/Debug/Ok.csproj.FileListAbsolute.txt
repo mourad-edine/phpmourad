@@ -13,7 +13,6 @@ C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.UserControl1.resources
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.UserControl2.resources
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.UserControl3.resources
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
-C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.Licensing.dll
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.exe.licenses
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.csproj.CopyComplete
@@ -49,3 +48,10 @@ C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\System.Memory.xml
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.Form2.resources
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.UserControl5.resources
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Admin\OneDrive\Bureau\Ok\Ok\obj\Debug\Ok.Form3.resources

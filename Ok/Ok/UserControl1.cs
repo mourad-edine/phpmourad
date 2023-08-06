@@ -15,8 +15,6 @@ namespace Ok
     public partial class UserControl1 : UserControl
     {
         MySqlConnection cn;
-        MySqlCommand cm;
-        MySqlDataReader rd;
         Class1 database = new Class1();
         public UserControl1()
         {

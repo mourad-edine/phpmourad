@@ -21,5 +21,11 @@ namespace Ok
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 test = new Form2();
+            test.ShowDialog();
+        }
     }
 }

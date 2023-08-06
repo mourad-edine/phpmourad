@@ -16,8 +16,6 @@ namespace Ok
     public partial class Form1 : Form
     {
         MySqlConnection cn;
-        MySqlCommand cm;
-        MySqlDataReader rd;
         Class1 database = new Class1();
         public void addcontroller(UserControl userControl)
         {
@@ -54,6 +52,10 @@ namespace Ok
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void button4_Click(object sender, EventArgs e)
         {
         }
     }
